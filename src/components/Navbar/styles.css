@@ -1,0 +1,19 @@
+.navbar {
+    background: #F55A5A;
+    display: flex;
+    height: 55px;
+    margin-bottom: 50px;
+}
+
+.navbar--text {
+    text-align: center; 
+    margin: auto;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.navbar--text > i {
+    margin-right: 7px;
+    font-size: 24px;
+}
